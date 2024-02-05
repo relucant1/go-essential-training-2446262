@@ -1,4 +1,5 @@
 # Go Essential Training
+udpate file content
 This is the repository for the LinkedIn Learning course Go Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Go Essential Training][lil-thumbnail-url] 
